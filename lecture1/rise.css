@@ -1,0 +1,15 @@
+/* Vergrößert die Schriftgröße des Codes in Codezellen */
+.rise-enabled .CodeMirror pre {
+    font-size: 3em; /* Schriftgröße des Codes in Codezellen */
+    line-height: 2.6; /* Erhöht den Zeilenabstand für bessere Lesbarkeit */
+}
+
+/* Alternative Anpassung für die CodeMirror-Textklasse */
+.rise-enabled .CodeMirror {
+    font-size: 3em; /* Alternative Möglichkeit, die Schriftgröße zu ändern */
+}
+
+/* Vergrößert die gesamte Zelle, falls erforderlich */
+.rise-enabled .cell {
+    font-size: 2.5em;
+}
