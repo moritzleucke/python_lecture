@@ -1,0 +1,161 @@
+[4m [0m[4m [0m[4mUNIT                                                                                             [0m[4m [0m[4mLOAD  [0m[4m [0m[4mACTIVE[0m[4m [0m[4mSUB      [0m[4m [0m[4mDESCRIPTION                                                                                     [0m
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245mproc-sys-fs-binfmt_misc.automount                                                                [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mwaiting  [0m[4m[58:5:245m [0m[4m[58:5:245mArbitrary Executable File Formats File System Automount Point                                   [0m
+  sys-devices-pci0000:00-0000:00:02.1-0000:01:00.0-nvme-nvme0-nvme0n1-nvme0n1p1.device              loaded active plugged   SKHynix_HFS512GDE9X081N 1
+  sys-devices-pci0000:00-0000:00:02.1-0000:01:00.0-nvme-nvme0-nvme0n1-nvme0n1p2.device              loaded active plugged   SKHynix_HFS512GDE9X081N 2
+  sys-devices-pci0000:00-0000:00:02.1-0000:01:00.0-nvme-nvme0-nvme0n1.device                        loaded active plugged   SKHynix_HFS512GDE9X081N
+  sys-devices-pci0000:00-0000:00:02.2-0000:02:00.0-net-enp2s0f0.device                              loaded active plugged   RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller
+  sys-devices-pci0000:00-0000:00:02.2-0000:02:00.1-0000:02:00.1:0-0000:02:00.1:0.0-tty-ttyS4.device loaded active plugged   RTL8111xP UART
+  sys-devices-pci0000:00-0000:00:02.2-0000:02:00.2-0000:02:00.2:0-0000:02:00.2:0.0-tty-ttyS5.device loaded active plugged   RTL8111xP UART
+  sys-devices-pci0000:00-0000:00:02.3-0000:03:00.0-net-wlp3s0.device                                loaded active plugged   MT7921 802.11ax PCI Express Wireless Network Adapter
+  sys-devices-pci0000:00-0000:00:02.6-0000:05:00.0-net-enp5s0.device                                loaded active plugged   RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller
+  sys-devices-pci0000:00-0000:00:08.1-0000:07:00.0-drm-card1-card1\x2deDP\x2d1-amdgpu_bl1.device    loaded active plugged   /sys/devices/pci0000:00/0000:00:08.1/0000:07:00.0/drm/card1/card1-eDP-1/amdgpu_bl1
+  sys-devices-pci0000:00-0000:00:08.1-0000:07:00.1-sound-card0-controlC0.device                     loaded active plugged   /sys/devices/pci0000:00/0000:00:08.1/0000:07:00.1/sound/card0/controlC0
+  sys-devices-pci0000:00-0000:00:08.1-0000:07:00.4-usb4-4\x2d4-4\x2d4:1.0-bluetooth-hci0.device     loaded active plugged   /sys/devices/pci0000:00/0000:00:08.1/0000:07:00.4/usb4/4-4/4-4:1.0/bluetooth/hci0
+  sys-devices-pci0000:00-0000:00:08.1-0000:07:00.5-acp_pdm_mach.0-sound-card2-controlC2.device      loaded active plugged   /sys/devices/pci0000:00/0000:00:08.1/0000:07:00.5/acp_pdm_mach.0/sound/card2/controlC2
+  sys-devices-pci0000:00-0000:00:08.1-0000:07:00.6-sound-card1-controlC1.device                     loaded active plugged   /sys/devices/pci0000:00/0000:00:08.1/0000:07:00.6/sound/card1/controlC1
+  sys-devices-platform-serial8250-serial8250:0-serial8250:0.0-tty-ttyS0.device                      loaded active plugged   /sys/devices/platform/serial8250/serial8250:0/serial8250:0.0/tty/ttyS0
+  sys-devices-platform-serial8250-serial8250:0-serial8250:0.1-tty-ttyS1.device                      loaded active plugged   /sys/devices/platform/serial8250/serial8250:0/serial8250:0.1/tty/ttyS1
+  sys-devices-platform-serial8250-serial8250:0-serial8250:0.2-tty-ttyS2.device                      loaded active plugged   /sys/devices/platform/serial8250/serial8250:0/serial8250:0.2/tty/ttyS2
+  sys-devices-platform-serial8250-serial8250:0-serial8250:0.3-tty-ttyS3.device                      loaded active plugged   /sys/devices/platform/serial8250/serial8250:0/serial8250:0.3/tty/ttyS3
+  sys-devices-platform-thinkpad_acpi-leds-tpacpi::kbd_backlight.device                              loaded active plugged   /sys/devices/platform/thinkpad_acpi/leds/tpacpi::kbd_backlight
+  sys-devices-virtual-block-zram0.device                                                            loaded active plugged   /sys/devices/virtual/block/zram0
+  sys-devices-virtual-misc-rfkill.device                                                            loaded active plugged   /sys/devices/virtual/misc/rfkill
+  sys-module-configfs.device                                                                        loaded active plugged   /sys/module/configfs
+  sys-module-fuse.device                                                                            loaded active plugged   /sys/module/fuse
+  sys-subsystem-bluetooth-devices-hci0.device                                                       loaded active plugged   /sys/subsystem/bluetooth/devices/hci0
+  sys-subsystem-net-devices-enp2s0f0.device                                                         loaded active plugged   RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller
+  sys-subsystem-net-devices-enp5s0.device                                                           loaded active plugged   RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245msys-subsystem-net-devices-wlp3s0.device                                                          [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mplugged  [0m[4m[58:5:245m [0m[4m[58:5:245mMT7921 802.11ax PCI Express Wireless Network Adapter                                            [0m
+  -.mount                                                                                           loaded active mounted   Root Mount
+  boot.mount                                                                                        loaded active mounted   /boot
+  dev-hugepages.mount                                                                               loaded active mounted   Huge Pages File System
+  dev-mqueue.mount                                                                                  loaded active mounted   POSIX Message Queue File System
+  run-user-1000-doc.mount                                                                           loaded active mounted   /run/user/1000/doc
+  run-user-1000-gvfs.mount                                                                          loaded active mounted   /run/user/1000/gvfs
+  run-user-1000.mount                                                                               loaded active mounted   /run/user/1000
+  sys-fs-fuse-connections.mount                                                                     loaded active mounted   FUSE Control File System
+  sys-kernel-config.mount                                                                           loaded active mounted   Kernel Configuration File System
+  sys-kernel-debug.mount                                                                            loaded active mounted   Kernel Debug File System
+  sys-kernel-tracing.mount                                                                          loaded active mounted   Kernel Trace File System
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245mtmp.mount                                                                                        [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mmounted  [0m[4m[58:5:245m [0m[4m[58:5:245mTemporary Directory /tmp                                                                        [0m
+  systemd-ask-password-console.path                                                                 loaded active waiting   Dispatch Password Requests to Console Directory Watch
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245msystemd-ask-password-wall.path                                                                   [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mwaiting  [0m[4m[58:5:245m [0m[4m[58:5:245mForward Password Requests to Wall Directory Watch                                               [0m
+  init.scope                                                                                        loaded active running   System and Service Manager
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245msession-3.scope                                                                                  [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mrunning  [0m[4m[58:5:245m [0m[4m[58:5:245mSession 3 of User jannis                                                                        [0m
+  accounts-daemon.service                                                                           loaded active running   Accounts Service
+  bluetooth.service                                                                                 loaded active running   Bluetooth service
+  colord.service                                                                                    loaded active running   Manage, Install and Generate Color Profiles
+  dbus-broker.service                                                                               loaded active running   D-Bus System Message Bus
+  dirmngr@etc-pacman.d-gnupg.service                                                                loaded active running   GnuPG network certificate management daemon for /etc/pacman.d/gnupg
+  firewalld.service                                                                                 loaded active running   firewalld - dynamic firewall daemon
+  gdm.service                                                                                       loaded active running   GNOME Display Manager
+  kmod-static-nodes.service                                                                         loaded active [0;38;5;245mexited   [0m Create List of Static Device Nodes
+  lvm2-monitor.service                                                                              loaded active [0;38;5;245mexited   [0m Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling
+  NetworkManager-wait-online.service                                                                loaded active [0;38;5;245mexited   [0m Network Manager Wait Online
+  NetworkManager.service                                                                            loaded active running   Network Manager
+  polkit.service                                                                                    loaded active running   Authorization Manager
+  rtkit-daemon.service                                                                              loaded active running   RealtimeKit Scheduling Policy Service
+  systemd-backlight@backlight:amdgpu_bl1.service                                                    loaded active [0;38;5;245mexited   [0m Load/Save Screen Backlight Brightness of backlight:amdgpu_bl1
+  systemd-backlight@leds:tpacpi::kbd_backlight.service                                              loaded active [0;38;5;245mexited   [0m Load/Save Screen Backlight Brightness of leds:tpacpi::kbd_backlight
+  systemd-boot-random-seed.service                                                                  loaded active [0;38;5;245mexited   [0m Update Boot Loader Random Seed
+  systemd-journal-flush.service                                                                     loaded active [0;38;5;245mexited   [0m Flush Journal to Persistent Storage
+  systemd-journald.service                                                                          loaded active running   Journal Service
+  systemd-logind.service                                                                            loaded active running   User Login Management
+  systemd-modules-load.service                                                                      loaded active [0;38;5;245mexited   [0m Load Kernel Modules
+  systemd-random-seed.service                                                                       loaded active [0;38;5;245mexited   [0m Load/Save OS Random Seed
+  systemd-remount-fs.service                                                                        loaded active [0;38;5;245mexited   [0m Remount Root and Kernel File Systems
+  systemd-sysctl.service                                                                            loaded active [0;38;5;245mexited   [0m Apply Kernel Variables
+  systemd-timesyncd.service                                                                         loaded active running   Network Time Synchronization
+  systemd-tmpfiles-setup-dev-early.service                                                          loaded active [0;38;5;245mexited   [0m Create Static Device Nodes in /dev gracefully
+  systemd-tmpfiles-setup-dev.service                                                                loaded active [0;38;5;245mexited   [0m Create Static Device Nodes in /dev
+  systemd-tmpfiles-setup.service                                                                    loaded active [0;38;5;245mexited   [0m Create System Files and Directories
+  systemd-udev-load-credentials.service                                                             loaded active [0;38;5;245mexited   [0m Load udev Rules from Credentials
+  systemd-udev-trigger.service                                                                      loaded active [0;38;5;245mexited   [0m Coldplug All udev Devices
+  systemd-udevd.service                                                                             loaded active running   Rule-based Manager for Device Events and Files
+  systemd-update-utmp.service                                                                       loaded active [0;38;5;245mexited   [0m Record System Boot/Shutdown in UTMP
+  systemd-user-sessions.service                                                                     loaded active [0;38;5;245mexited   [0m Permit User Sessions
+  systemd-vconsole-setup.service                                                                    loaded active [0;38;5;245mexited   [0m Virtual Console Setup
+  systemd-zram-setup@zram0.service                                                                  loaded active [0;38;5;245mexited   [0m Create swap on /dev/zram0
+  udisks2.service                                                                                   loaded active running   Disk Manager
+  upower.service                                                                                    loaded active running   Daemon for power management
+  user-runtime-dir@1000.service                                                                     loaded active [0;38;5;245mexited   [0m User Runtime Directory /run/user/1000
+  user@1000.service                                                                                 loaded active running   User Manager for UID 1000
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245mwpa_supplicant.service                                                                           [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mrunning  [0m[4m[58:5:245m [0m[4m[58:5:245mWPA supplicant                                                                                  [0m
+  -.slice                                                                                           loaded active active    Root Slice
+  system-dirmngr.slice                                                                              loaded active active    Slice /system/dirmngr
+  system-getty.slice                                                                                loaded active active    Slice /system/getty
+  system-gpg\x2dagent.slice                                                                         loaded active active    Slice /system/gpg-agent
+  system-gpg\x2dagent\x2dbrowser.slice                                                              loaded active active    Slice /system/gpg-agent-browser
+  system-gpg\x2dagent\x2dextra.slice                                                                loaded active active    Slice /system/gpg-agent-extra
+  system-gpg\x2dagent\x2dssh.slice                                                                  loaded active active    Slice /system/gpg-agent-ssh
+  system-keyboxd.slice                                                                              loaded active active    Slice /system/keyboxd
+  system-modprobe.slice                                                                             loaded active active    Slice /system/modprobe
+  system-systemd\x2dbacklight.slice                                                                 loaded active active    Slice /system/systemd-backlight
+  system-systemd\x2dcoredump.slice                                                                  loaded active active    Slice /system/systemd-coredump
+  system-systemd\x2dzram\x2dsetup.slice                                                             loaded active active    Slice /system/systemd-zram-setup
+  system.slice                                                                                      loaded active active    System Slice
+  user-1000.slice                                                                                   loaded active active    User Slice of UID 1000
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245muser.slice                                                                                       [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mactive   [0m[4m[58:5:245m [0m[4m[58:5:245mUser and Session Slice                                                                          [0m
+  dbus.socket                                                                                       loaded active running   D-Bus System Message Bus Socket
+  dirmngr@etc-pacman.d-gnupg.socket                                                                 loaded active running   GnuPG network certificate management daemon for /etc/pacman.d/gnupg
+  dm-event.socket                                                                                   loaded active listening Device-mapper event daemon FIFOs
+  gpg-agent-browser@etc-pacman.d-gnupg.socket                                                       loaded active listening GnuPG cryptographic agent and passphrase cache (access for web browsers) for /etc/pacman.d/gnupg
+  gpg-agent-extra@etc-pacman.d-gnupg.socket                                                         loaded active listening GnuPG cryptographic agent and passphrase cache (restricted) for /etc/pacman.d/gnupg
+  gpg-agent-ssh@etc-pacman.d-gnupg.socket                                                           loaded active listening GnuPG cryptographic agent (ssh-agent emulation) for /etc/pacman.d/gnupg
+  gpg-agent@etc-pacman.d-gnupg.socket                                                               loaded active listening GnuPG cryptographic agent and passphrase cache for /etc/pacman.d/gnupg
+  keyboxd@etc-pacman.d-gnupg.socket                                                                 loaded active listening GnuPG public key management service for /etc/pacman.d/gnupg
+  lvm2-lvmpolld.socket                                                                              loaded active listening LVM2 poll daemon socket
+  sshd-unix-local.socket                                                                            loaded active listening OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local)
+  systemd-ask-password.socket                                                                       loaded active listening Query the User Interactively for a Password
+  systemd-bootctl.socket                                                                            loaded active listening Boot Entries Service Socket
+  systemd-coredump.socket                                                                           loaded active listening Process Core Dump Socket
+  systemd-creds.socket                                                                              loaded active listening Credential Encryption/Decryption
+  systemd-factory-reset.socket                                                                      loaded active listening Factory Reset Management
+  systemd-hostnamed.socket                                                                          loaded active listening Hostname Service Socket
+  systemd-importd.socket                                                                            loaded active listening Disk Image Download Service Socket
+  systemd-journald-dev-log.socket                                                                   loaded active running   Journal Socket (/dev/log)
+  systemd-journald.socket                                                                           loaded active running   Journal Sockets
+  systemd-logind-varlink.socket                                                                     loaded active running   User Login Management Varlink Socket
+  systemd-machined.socket                                                                           loaded active listening Virtual Machine and Container Registration Service Socket
+  systemd-rfkill.socket                                                                             loaded active listening Load/Save RF Kill Switch Status /dev/rfkill Watch
+  systemd-sysext.socket                                                                             loaded active listening System Extension Image Management
+  systemd-udevd-control.socket                                                                      loaded active running   udev Control Socket
+  systemd-udevd-kernel.socket                                                                       loaded active running   udev Kernel Socket
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245msystemd-udevd-varlink.socket                                                                     [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mrunning  [0m[4m[58:5:245m [0m[4m[58:5:245mudev Varlink Socket                                                                             [0m
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245mdev-zram0.swap                                                                                   [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mactive   [0m[4m[58:5:245m [0m[4m[58:5:245mCompressed Swap on /dev/zram0                                                                   [0m
+  basic.target                                                                                      loaded active active    Basic System
+  bluetooth.target                                                                                  loaded active active    Bluetooth Support
+  cryptsetup.target                                                                                 loaded active active    Local Encrypted Volumes
+  getty.target                                                                                      loaded active active    Login Prompts
+  graphical.target                                                                                  loaded active active    Graphical Interface
+  imports.target                                                                                    loaded active active    Image Downloads
+  integritysetup.target                                                                             loaded active active    Local Integrity Protected Volumes
+  local-fs-pre.target                                                                               loaded active active    Preparation for Local File Systems
+  local-fs.target                                                                                   loaded active active    Local File Systems
+  multi-user.target                                                                                 loaded active active    Multi-User System
+  network-online.target                                                                             loaded active active    Network is Online
+  network-pre.target                                                                                loaded active active    Preparation for Network
+  network.target                                                                                    loaded active active    Network
+  nss-user-lookup.target                                                                            loaded active active    User and Group Name Lookups
+  paths.target                                                                                      loaded active active    Path Units
+  remote-fs.target                                                                                  loaded active active    Remote File Systems
+  slices.target                                                                                     loaded active active    Slice Units
+  sockets.target                                                                                    loaded active active    Socket Units
+  sound.target                                                                                      loaded active active    Sound Card
+  swap.target                                                                                       loaded active active    Swaps
+  sysinit.target                                                                                    loaded active active    System Initialization
+  time-set.target                                                                                   loaded active active    System Time Set
+  timers.target                                                                                     loaded active active    Timer Units
+[4m[58:5:245m [0m[4m[58:5:245m [0m[4m[58:5:245mveritysetup.target                                                                               [0m[4m[58:5:245m [0m[4m[58:5:245mloaded[0m[4m[58:5:245m [0m[4m[58:5:245mactive[0m[4m[58:5:245m [0m[4m[58:5:245mactive   [0m[4m[58:5:245m [0m[4m[58:5:245mLocal Verity Protected Volumes                                                                  [0m
+  archlinux-keyring-wkd-sync.timer                                                                  loaded active waiting   Refresh existing PGP keys of archlinux-keyring regularly
+  fstrim.timer                                                                                      loaded active waiting   Discard unused filesystem blocks once a week
+  man-db.timer                                                                                      loaded active waiting   Daily man-db regeneration
+  shadow.timer                                                                                      loaded active waiting   Daily verification of password and group files
+  systemd-tmpfiles-clean.timer                                                                      loaded active waiting   Daily Cleanup of Temporary Directories
+
+[0;38;5;245mLegend: LOAD   → Reflects whether the unit definition was properly loaded.[0m
+[0;38;5;245m        ACTIVE → The high-level unit activation state, i.e. generalization of SUB.[0m
+[0;38;5;245m        SUB    → The low-level unit activation state, values depend on unit type.[0m
+
+[0;1;39m153 loaded units listed.[0m [0;38;5;245mPass --all to see loaded but inactive units, too.[0m
+[0;38;5;245mTo show all installed unit files use 'systemctl list-unit-files'.[0m
